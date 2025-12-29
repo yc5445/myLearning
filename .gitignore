@@ -1,0 +1,10 @@
+# Java
+*.class
+*.log
+target/
+build/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
